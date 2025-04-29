@@ -19,20 +19,12 @@
 
 ---
 
-### 🌱 Currently Working On
-
-- ✨ My Book Shelf – a beautiful book management web app
-- 🛍 IRORUN / Yanki Shop / LOCUS – stylish eCommerce websites
-- 📚 Constantly learning and improving my design & coding skills
-
----
-
 ### 📫 Contact Me
 
 <p>
-  <a href="https://t.me/Marialonco" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/Marjona_Azamova" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://kwork.ru/user/marjonaazamova" target="_blank"><img src="https://img.shields.io/badge/Kwork-3C3C3C?style=for-the-badge&logo=freelancer&logoColor=white"/></a>
+  <a href="mailto:azamova0312@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -40,4 +32,3 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/cd/12/3a/cd123a03437e1dfb68f958ec6c5e84d0.gif" width="100"/>
 </p>
-
