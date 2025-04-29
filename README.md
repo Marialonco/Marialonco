@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Marjona</h1>
 <p align="center">
-  <i>A passionate Front-End Developer and UI perfectionist from Uzbekistan 🇺🇿</i><br/>
+  <i>A passionate Front-End Developer and UI perfectionist from Uzbekistan </i><br/>
   <i>Currently improving my skills and building awesome web projects.</i>
 </p>
 
